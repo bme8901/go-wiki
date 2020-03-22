@@ -1,3 +1,3 @@
 # go-wiki
 
-Personal exploration of Golang documentation for create web applications.
+Personal exploration of Golang documentation for creating web applications.
